@@ -38,7 +38,7 @@ export default function Login({ onLogin }) {
 
           <button className="login-btn" type="submit">LOGIN</button>
           <p> ProjectManager : Manager : PM123  </p>
-            <p> users1,2 : User1 : 123</p>
+            <p> Users1,2 : User1 : 123</p>
         </form>
       </div>
     </div>
