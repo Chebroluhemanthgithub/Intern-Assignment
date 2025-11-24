@@ -32,6 +32,11 @@ https://github.com/Chebroluhemanthgithub/Intern-Assignment.git
 
 <img width="1257" height="722" alt="image" src="https://github.com/user-attachments/assets/d0ec16b5-ed7b-47cc-8411-0cea6dfc3f47" />
 
+
+
+<h1>live link</h1>
+https://intern-assignment-git-main-chebroluhemanthgithubs-projects.vercel.app/
+
 <h2>ProjectManger Dashboard view</h2> 
 <img width="1166" height="898" alt="image" src="https://github.com/user-attachments/assets/41701b2d-eab5-45d5-b499-def9eea39c60" />
 
