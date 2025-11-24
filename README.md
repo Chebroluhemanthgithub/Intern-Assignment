@@ -28,5 +28,11 @@ npm create vite@latest taskmanagementweb ----Template  react
 Clone
 https://github.com/Chebroluhemanthgithub/Intern-Assignment.git
 
+<h3>Login page</h3>
+
 <img width="1257" height="722" alt="image" src="https://github.com/user-attachments/assets/d0ec16b5-ed7b-47cc-8411-0cea6dfc3f47" />
+
+ProjectManger Dashboard view 
+<img width="1166" height="898" alt="image" src="https://github.com/user-attachments/assets/41701b2d-eab5-45d5-b499-def9eea39c60" />
+
 
